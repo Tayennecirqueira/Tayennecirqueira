@@ -9,7 +9,7 @@ Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concl
         <img 
             alt="Gmail" 
             title="Total de estrelas GitHub" 
-            src=https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+            src=https://img.shields.io/badge/Gmail-424242?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://www.instagram.com/taycirqueira/">
