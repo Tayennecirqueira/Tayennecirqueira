@@ -66,7 +66,7 @@ Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concl
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Tayennecirqueira&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
@@ -74,7 +74,7 @@ Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concl
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayennecirqueira&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
