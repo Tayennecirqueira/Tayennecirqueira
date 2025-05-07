@@ -1,22 +1,29 @@
-## Tayenne
+## 👩🏻‍💻 Tayenne Cirqueira
 
 **`Desenvolvedora Front-end`**
 
 Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concluí o curso superior de Logística pela Faculdade Pitágoras Unopar Anhanguera. Atualmente, estou cursando Engenharia de Software na Pitágoras Unopar Anhanguera. Sou apaixonada por tecnologia e compartilho meu portifólio pessoal (https://cirqueirasoft.com.br/).
 
 <p align="left">
-    <a href="https://github.com/Tayennecirqueira?tab=repositories&sort=stargazers">
+    <a href="https://mail.google.com/mail/u/1/#inbox">
         <img 
-            alt="Total de estrelas" 
+            alt="Gmail" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Tayennecirqueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src=https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
-    <a href="https://github.com/Tayennecirqueira?tab=followers">
+    <a href="https://www.instagram.com/taycirqueira/">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Tayennecirqueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/tayenne-cirqueira-49534266/">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0080FF?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
@@ -61,15 +68,16 @@ Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concl
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Tayennecirqueira&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Tayennecirqueira&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayennecirqueira&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayennecirqueira&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
 
+## "Tecnologia não é apenas código — é a ponte entre ideias e realidade."
