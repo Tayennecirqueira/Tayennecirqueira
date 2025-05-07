@@ -27,6 +27,14 @@ Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concl
             src="https://img.shields.io/badge/LinkedIn-0080FF?style=for-the-badge&logo=linkedin&logoColor=white"
             />
         </a>
+        </a>
+        <a href="https://api.whatsapp.com/send/?phone=5531982938973&text&type=phone_number&app_absent=0">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+            />
+        </a>
     </p>
 </div>    
 
@@ -80,7 +88,7 @@ Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concl
       alt="GitHub Stats" 
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayennecirqueira&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    /><br></br><br></br><br></br><br></br><br></br><br></br>
+    /><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
     </p>
 </div><br>
 
