@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concluí o curso superior de Logística pela Faculdade Pitágoras Unopar Anhanguera. Atualmente, estou cursando Engenharia de Software na Pitágoras Unopar Anhanguera. Sou apaixonada por tecnologia e compartilho meu portifólio pessoal (https://cirqueirasoft.com.br/).
+Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Sou formada em Logística. Atualmente, estou cursando Engenharia de Software na Pitágoras Unopar Anhanguera. Sou apaixonada por tecnologia e compartilho meu portifólio pessoal (https://cirqueirasoft.com.br/).
 
 <div>
     <p align="left">
