@@ -73,7 +73,7 @@ Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Concl
 ---
 
 ### 📊 Estatísticas 
-
+<br></br>
 <div>
     <p>
     <img 
