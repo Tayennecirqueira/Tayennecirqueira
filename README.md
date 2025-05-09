@@ -105,7 +105,6 @@ Me chamo Tayenne Cirqueira, tenho 32 anos e sou natural de Belo Horizonte. Sou f
         <br>
         <br>
         <br>
-        <br>
 </div>
 
 ## "Tecnologia não é apenas código — é a ponte entre ideias e realidade."
